@@ -13,6 +13,6 @@ gj.connect_user(username, token)
 gj.add_score("100 points", 100)
 ```
 
-Check out the [example app]!
+Check out the [example app][0]!
 
 [0]: https://github.com/variousauthors/love-gamejolt-api-example
